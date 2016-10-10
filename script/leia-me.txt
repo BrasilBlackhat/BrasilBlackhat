@@ -1,0 +1,9 @@
+para usar basta extrair onde ja tem os arquivos .bashrc
+para saber onde tem basta dar esse comando!
+locate .bashrc
+
+depois entre nessa pasta script 
+
+cp .bashrc /home/user/.bashrc
+se caso for subistituir o do root
+sudo cp .bashrc /root/.bashrc 
